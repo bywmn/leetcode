@@ -31,7 +31,6 @@ public class StringToInteger_solution_state_machine {
         System.out.println(new StringToInteger_solution_state_machine().myAtoi("42"));
     }
 
-
     /**
      * 使用状态机进行求解
      * <p>
